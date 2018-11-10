@@ -1,5 +1,4 @@
-# Rootvan New Site 0.0.1
-
+# Rootvan New Site 0.0.2 Beta
 Node.js CLI app to create Apache domains for your local sites.
 
   - Automaticly create/update conf files
@@ -12,14 +11,18 @@ Node.js CLI app to create Apache domains for your local sites.
  - NPM (Tested on 6.4.1)
 
 ### Installation
-Clone the repo and
+
+With NPM
+```sh
+$ npm i -g rootvan-new-site
+```
+or clone the repo and
 
 ```sh
 $ sudo npm install -g rootvan-new-site/
 ```
 
 ### Usage
-Clone the repo and
 
 ```sh
 $ sudo rootvan-new-site [domain] [path]

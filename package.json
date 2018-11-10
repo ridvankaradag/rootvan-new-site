@@ -1,6 +1,6 @@
 {
   "name": "rootvan-new-site",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI app to create apache domains for your local sites",
   "main": "./lib/index.js",
   "scripts": {
