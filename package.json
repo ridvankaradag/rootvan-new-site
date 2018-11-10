@@ -16,5 +16,9 @@
   },
   "preferGlobal": true,
   "author": "ridvankaradag",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/ridvankaradag/rootvan-new-site.git"
+  }
 }
